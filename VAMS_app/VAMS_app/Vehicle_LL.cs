@@ -45,7 +45,7 @@ namespace VAMS_app
             Node temp = head;
             while (temp != null)
             {
-                copy.Insert(temp.CarData.Brand, temp.CarData.Model, temp.CarData.Year, temp.CarData.Mileage, temp.CarData.Reserved_Price);
+                copy.Insert(temp.CarData.Brand, temp.CarData.Model, temp.CarData.Year, temp.CarData.Mileage, (int)temp.CarData.Reserved_Price);
                 temp = temp.Next;
             }
             return copy;

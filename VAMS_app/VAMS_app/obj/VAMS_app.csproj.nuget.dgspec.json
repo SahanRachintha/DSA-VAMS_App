@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\web development\\VAMS_app\\VAMS_app\\VAMS_app.csproj": {}
+    "C:\\Users\\HP\\Documents\\GitHub\\DSA-VAMS_App\\VAMS_app\\VAMS_app\\VAMS_app.csproj": {}
   },
   "projects": {
-    "E:\\web development\\VAMS_app\\VAMS_app\\VAMS_app.csproj": {
+    "C:\\Users\\HP\\Documents\\GitHub\\DSA-VAMS_App\\VAMS_app\\VAMS_app\\VAMS_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\VAMS_app\\VAMS_app\\VAMS_app.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\DSA-VAMS_App\\VAMS_app\\VAMS_app\\VAMS_app.csproj",
         "projectName": "VAMS_app",
-        "projectPath": "E:\\web development\\VAMS_app\\VAMS_app\\VAMS_app.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\DSA-VAMS_App\\VAMS_app\\VAMS_app\\VAMS_app.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\VAMS_app\\VAMS_app\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\DSA-VAMS_App\\VAMS_app\\VAMS_app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

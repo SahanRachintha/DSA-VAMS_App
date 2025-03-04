@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VAMS_app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dfbe0997814a59e82291ce78e4bcc18df4bd6e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("VAMS_app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VAMS_app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
