@@ -1,0 +1,14 @@
+E:\web development\VAMS_app\VAMS_app\bin\Debug\net8.0\VAMS_app.exe
+E:\web development\VAMS_app\VAMS_app\bin\Debug\net8.0\VAMS_app.deps.json
+E:\web development\VAMS_app\VAMS_app\bin\Debug\net8.0\VAMS_app.runtimeconfig.json
+E:\web development\VAMS_app\VAMS_app\bin\Debug\net8.0\VAMS_app.dll
+E:\web development\VAMS_app\VAMS_app\bin\Debug\net8.0\VAMS_app.pdb
+E:\web development\VAMS_app\VAMS_app\obj\Debug\net8.0\VAMS_app.GeneratedMSBuildEditorConfig.editorconfig
+E:\web development\VAMS_app\VAMS_app\obj\Debug\net8.0\VAMS_app.AssemblyInfoInputs.cache
+E:\web development\VAMS_app\VAMS_app\obj\Debug\net8.0\VAMS_app.AssemblyInfo.cs
+E:\web development\VAMS_app\VAMS_app\obj\Debug\net8.0\VAMS_app.csproj.CoreCompileInputs.cache
+E:\web development\VAMS_app\VAMS_app\obj\Debug\net8.0\VAMS_app.dll
+E:\web development\VAMS_app\VAMS_app\obj\Debug\net8.0\refint\VAMS_app.dll
+E:\web development\VAMS_app\VAMS_app\obj\Debug\net8.0\VAMS_app.pdb
+E:\web development\VAMS_app\VAMS_app\obj\Debug\net8.0\VAMS_app.genruntimeconfig.cache
+E:\web development\VAMS_app\VAMS_app\obj\Debug\net8.0\ref\VAMS_app.dll

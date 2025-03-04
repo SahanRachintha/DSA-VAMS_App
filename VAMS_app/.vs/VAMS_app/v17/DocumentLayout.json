@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\web development\\VAMS_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7339B44-FBAE-421C-8235-A3344CA1BE5E}|VAMS_app\\VAMS_app.csproj|e:\\web development\\vams_app\\vams_app\\vehicle_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7339B44-FBAE-421C-8235-A3344CA1BE5E}|VAMS_app\\VAMS_app.csproj|solutionrelative:vams_app\\vehicle_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7339B44-FBAE-421C-8235-A3344CA1BE5E}|VAMS_app\\VAMS_app.csproj|e:\\web development\\vams_app\\vams_app\\vehiclebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7339B44-FBAE-421C-8235-A3344CA1BE5E}|VAMS_app\\VAMS_app.csproj|solutionrelative:vams_app\\vehiclebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7339B44-FBAE-421C-8235-A3344CA1BE5E}|VAMS_app\\VAMS_app.csproj|e:\\web development\\vams_app\\vams_app\\bidnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7339B44-FBAE-421C-8235-A3344CA1BE5E}|VAMS_app\\VAMS_app.csproj|solutionrelative:vams_app\\bidnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7339B44-FBAE-421C-8235-A3344CA1BE5E}|VAMS_app\\VAMS_app.csproj|e:\\web development\\vams_app\\vams_app\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7339B44-FBAE-421C-8235-A3344CA1BE5E}|VAMS_app\\VAMS_app.csproj|solutionrelative:vams_app\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7339B44-FBAE-421C-8235-A3344CA1BE5E}|VAMS_app\\VAMS_app.csproj|e:\\web development\\vams_app\\vams_app\\vehicle_ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7339B44-FBAE-421C-8235-A3344CA1BE5E}|VAMS_app\\VAMS_app.csproj|solutionrelative:vams_app\\vehicle_ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7339B44-FBAE-421C-8235-A3344CA1BE5E}|VAMS_app\\VAMS_app.csproj|e:\\web development\\vams_app\\vams_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7339B44-FBAE-421C-8235-A3344CA1BE5E}|VAMS_app\\VAMS_app.csproj|solutionrelative:vams_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleBase.cs",
+              "DocumentMoniker": "E:\\web development\\VAMS_app\\VAMS_app\\VehicleBase.cs",
+              "RelativeDocumentMoniker": "VAMS_app\\VehicleBase.cs",
+              "ToolTip": "E:\\web development\\VAMS_app\\VAMS_app\\VehicleBase.cs",
+              "RelativeToolTip": "VAMS_app\\VehicleBase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:46:03.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BidNode.cs",
+              "DocumentMoniker": "E:\\web development\\VAMS_app\\VAMS_app\\BidNode.cs",
+              "RelativeDocumentMoniker": "VAMS_app\\BidNode.cs",
+              "ToolTip": "E:\\web development\\VAMS_app\\VAMS_app\\BidNode.cs",
+              "RelativeToolTip": "VAMS_app\\BidNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:30:10.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.cs",
+              "DocumentMoniker": "E:\\web development\\VAMS_app\\VAMS_app\\Node.cs",
+              "RelativeDocumentMoniker": "VAMS_app\\Node.cs",
+              "ToolTip": "E:\\web development\\VAMS_app\\VAMS_app\\Node.cs",
+              "RelativeToolTip": "VAMS_app\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:29:45.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle_LL.cs",
+              "DocumentMoniker": "E:\\web development\\VAMS_app\\VAMS_app\\Vehicle_LL.cs",
+              "RelativeDocumentMoniker": "VAMS_app\\Vehicle_LL.cs",
+              "ToolTip": "E:\\web development\\VAMS_app\\VAMS_app\\Vehicle_LL.cs",
+              "RelativeToolTip": "VAMS_app\\Vehicle_LL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsBAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:29:22.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle_Data.cs",
+              "DocumentMoniker": "E:\\web development\\VAMS_app\\VAMS_app\\Vehicle_Data.cs",
+              "RelativeDocumentMoniker": "VAMS_app\\Vehicle_Data.cs",
+              "ToolTip": "E:\\web development\\VAMS_app\\VAMS_app\\Vehicle_Data.cs",
+              "RelativeToolTip": "VAMS_app\\Vehicle_Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:28:25.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\web development\\VAMS_app\\VAMS_app\\Program.cs",
+              "RelativeDocumentMoniker": "VAMS_app\\Program.cs",
+              "ToolTip": "E:\\web development\\VAMS_app\\VAMS_app\\Program.cs",
+              "RelativeToolTip": "VAMS_app\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:27:29.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
